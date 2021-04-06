@@ -3,4 +3,4 @@ Titanic challenge part 1 In this notebook, we will be covering all of the steps 
 - impute missing values 
 - create new features (feature engineering) 
 - 
-Part 2 of this challenge involves fitting and tuning a random forest to make predictions.
+Part 2 of this challenge involves fitting and tuning a **random forest** to make predictions.
